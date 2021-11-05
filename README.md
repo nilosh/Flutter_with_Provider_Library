@@ -1,5 +1,6 @@
 # provider_counter
 
+Practice Project.
 A new Flutter application - state management with Provider library.
 
 ## Getting Started
